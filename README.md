@@ -31,6 +31,10 @@ With this certificate, I've honed my analytical skills, learning to make data-dr
 [![IBM IT Support Certificate](https://img.shields.io/badge/Coursera-IBM%20IT%20Support-blue.svg)](https://coursera.org/share/fbcc5f4a8a9b93f53d4f02adf062d444)
 This certificate equips me with the foundational knowledge to provide end-to-end IT support, including networking, operating systems, and security fundamentals.
 
+### Open-Source Intelligence (OSINT) Fundamentals
+![OSINT Fundamentals Certificate](certifications/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)
+This certificate confirms my foundational knowledge in OSINT, equipping me with the techniques necessary for gathering and analyzing publicly available information for investigative purposes.
+
 
 ## Publications and Contributions
 I'll share educational content I've created, my contributions to thought leadership in cybersecurity, and my engagements in related events and conferences. [View Publications](#)
