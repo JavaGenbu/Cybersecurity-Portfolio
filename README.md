@@ -32,7 +32,7 @@ With this certificate, I've honed my analytical skills, learning to make data-dr
 This certificate equips me with the foundational knowledge to provide end-to-end IT support, including networking, operating systems, and security fundamentals.
 
 ### Open-Source Intelligence (OSINT) Fundamentals
-![OSINT Fundamentals Certificate](OSINT_Fundamentals_Certificate.jpg)
+![OSINT Fundamentals Certificate](certifications/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)
 Gaining proficiency in OSINT, this certification validates my ability to collect and analyze data from open sources to support investigative work and cybersecurity initiatives.
 
 
