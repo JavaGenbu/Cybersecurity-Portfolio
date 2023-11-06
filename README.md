@@ -36,5 +36,13 @@ This certificate equips me with the foundational knowledge to provide end-to-end
 I'll share educational content I've created, my contributions to thought leadership in cybersecurity, and my engagements in related events and conferences. [View Publications](#)
 
 ## Contact
-Interested in my work or keen on collaborating in the intersection of cybersecurity and emerging tech? Reach out to discuss potential projects and opportunities. [Java.trbj@gmail.com] [Linkedin] (https://www.linkedin.com/in/jose-valero-aige/)
+
+If you wish to discuss potential projects, collaborations, or simply want to connect, I am available through the following channels:
+
+### Email
+Feel free to send me an email at [Java.trbj@gmail.com](mailto:Java.trbj@gmail.com).
+
+### LinkedIn
+Connect with me on LinkedIn for a more professional engagement: [Jose Valero](https://www.linkedin.com/in/jose-valero-aige/).
+
 
