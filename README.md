@@ -6,7 +6,14 @@ Welcome to my Cybersecurity portfolio! I'm Jose Valero, a cybersecurity student 
 Dive into my academic background and professional development in cybersecurity here. With a programmer's precision, a data scientist's eye for patterns, and an AI enthusiast's drive for innovation, I am dedicated to mastering the art of identifying vulnerabilities, conducting penetration tests, and implementing robust cybersecurity measures.
 
 ## Projects
-Explore my projects where I apply a combination of cybersecurity know-how with programming, data analysis, and AI strategies to develop comprehensive security solutions. [View Projects](#)
+
+### Poisonous and Edible Mushrooms - Data Analysis and Predictive Modeling
+In this project, I performed a thorough analysis and predictive modeling on a dataset of mushrooms to classify them as poisonous or edible based on their features. The project showcases data preprocessing, exploratory data analysis, and the application of various machine learning algorithms to create a robust classification model.
+- [View the Kaggle Notebook](https://www.kaggle.com/code/josevaleroaige/hongos-venenosos-y-comestibles)
+
+### Shoe Segmentation - Model Training
+This project focuses on developing a model for segmenting different parts of shoes from images. It involves using advanced computer vision techniques and convolutional neural networks (CNNs) to train a model that can accurately segment shoes, which can be applied in various fashion industry applications.
+- [View the Kaggle Notebook](https://www.kaggle.com/code/josevaleroaige/shoe-segmentation-model-training)
 
 ## Skills
 My expertise extends to security risk assessment, cryptography, digital forensic analysis, and proficiency in security tools like Wireshark and Metasploit. My background in programming, data science, and AI further enhances my approach to cybersecurity challenges. [View Skills](#)
