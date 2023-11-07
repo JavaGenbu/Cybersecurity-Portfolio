@@ -26,6 +26,10 @@ My pursuit of knowledge is ongoing, and earning professional certificates is par
 [![Google Cybersecurity Certificate](https://img.shields.io/badge/Coursera-Google%20Cybersecurity-blue.svg)](https://coursera.org/share/55c82e7e992374fffdd1910626ec1ab4)
 Accredited by Google, this certificate underscores my expertise in protecting networks, systems, and applications from digital threats.
 
+### IBM Cybersecurity Analyst Professional Certificate
+[![IBM Cybersecurity Analyst Certificate](https://img.shields.io/badge/Coursera-IBM%20Cybersecurity%20Analyst-blue.svg)](https://coursera.org/share/baa5263e393e338cef12b9e57a79f159)
+This professional certificate from IBM provided me with the foundational skills for a career in cybersecurity. It covered a wide range of topics including threat intelligence, digital forensics, incident response, and security operations.
+
 ### IBM Data Science Professional Certificate
 [![IBM Data Science Certificate](https://img.shields.io/badge/Coursera-IBM%20Data%20Science-blue.svg)](https://coursera.org/share/ee1da5c346fbaa39d89be57846335f1e)
 This certificate from IBM validates my skill set in data science methodologies, affirming my ability to analyze data and extract valuable insights.
