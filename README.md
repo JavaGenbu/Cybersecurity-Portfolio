@@ -16,7 +16,9 @@ This project focuses on developing a model for segmenting different parts of sho
 - [View the Kaggle Notebook](https://www.kaggle.com/code/josevaleroaige/shoe-segmentation-model-training)
 
 ## Skills
-My expertise extends to security risk assessment, cryptography, digital forensic analysis, and proficiency in security tools like Wireshark and Metasploit. My background in programming, data science, and AI further enhances my approach to cybersecurity challenges. [View Skills](#)
+My expertise extends to security risk assessment, cryptography, digital forensic analysis, and proficiency in security tools like Wireshark and Metasploit. My background in programming, data science, and AI further enhances my approach to cybersecurity challenges.
+
+Hands-on cybersecurity training and challenges completed on TryHackMe. [Check out my TryHackMe profile](https://tryhackme.com/p/java.trbj).
 
 ## Certifications and certificates
 
